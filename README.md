@@ -151,12 +151,19 @@ AUC ≈ 0.68
 ---
 
 ## 📁 Estructura del Repositorio
+
 Proyecto_Deteccion_Fraude/
+
 │
+
 ├─ notebooks/
+
 │ ├─ Arquitectura_Medallon_Brandon_Viru.ipynb
+
 │ ├─ Analisis_Fraude_Brandon_Viru.ipynb
+
 │
+
 ├─ README.md
 
 
