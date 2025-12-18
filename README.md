@@ -1,4 +1,4 @@
-# 🛡️ Proyecto_Deteccion_Fraude
+# 🧐 Proyecto_Deteccion_Fraude
 
 ## 📌 Descripción General
 Este proyecto implementa un **pipeline completo de datos** para la **detección de fraude en transacciones financieras**, integrando **Data Engineering**, **Analytics** y **Machine Learning**.
